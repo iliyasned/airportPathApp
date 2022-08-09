@@ -1,0 +1,7 @@
+Departing Airport, Arriving Airport, Time
+ORD, SFO, 246
+SFO, ORD, 246
+ORD, JFK, 100
+JFK, ORD, 100
+SEA, DEN, 129
+DEN, SEA, 129
